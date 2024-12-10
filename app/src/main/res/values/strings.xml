@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Тест на знание ПДД</string>
+    <string name="version_text">версия 1.0</string>
+    <string name="button_start">Начать</string>
+    <string name="main_text">Проверь, \nзнаешь ли ты основные \nправила \nПДД?</string>
+    <string name="text_question">При повороте направо\nВы должны уступить дорогу:</string>
+    <string name="success_text">Молодец! Осталось выучить ещё много вопросов:) и права будут у тебя!</string>
+    <string name="email_info">Почта: artemkolobrodov@yandex.ru</string>
+    <string name="created_by">Разработчик: Колобродов А.С</string>
+</resources>
