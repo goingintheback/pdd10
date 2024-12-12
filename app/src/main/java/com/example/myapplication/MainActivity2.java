@@ -52,6 +52,7 @@ public class MainActivity2 extends AppCompatActivity implements View.OnClickList
         if(v.getId() == successAnswerId) {
             Intent intent = new Intent(this, MainActivity3.class);
             startActivity(intent);
+            finish();
         }else {
             Button noRight = findViewById(v.getId());
 

@@ -33,7 +33,8 @@ public class MainActivity4 extends AppCompatActivity {
                 .setIcon(R.drawable.icon)
                 .setMessage("Вы уверены что хотите выйти из приложения")
                 .setCancelable(false)
-                .setPositiveButton("Ок", new DialogInterface.OnClickListener() {
+                .setPositiveButton("OK", new DialogInterface.OnClickListener() {
+
                     public void onClick(DialogInterface dialog, int id) {
                         finish();
                     }
